@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prankushh&label=Profile%20views&color=0e75b6&style=flat" alt="prankushh" /> </p>
 
-- 🌱 I’m currently Aspiring **Cloud Solutions Architect**
+- 🌱 I’m currently Aspiring **Cloud & DevOps Engineer**
 
 - 👨‍💻 My Portfolio [https://anishsengarr.github.io/](https://anishsengarr.github.io/)
 
