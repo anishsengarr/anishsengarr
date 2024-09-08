@@ -3,8 +3,6 @@
 
 <h4>About Me</h4>
 
-<img align="right" width="400" 
-
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=prankushh&label=Profile%20views&color=0e75b6&style=flat" alt="prankushh" /> </p>
 
 - 🌱 I’m currently Aspiring **Cloud & DevOps Engineer**
