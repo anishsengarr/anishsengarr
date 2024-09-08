@@ -23,6 +23,10 @@
  
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img  src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png" alt="docker" width="40" height="40"/> </a>
 
+<a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"> <img  src="https://img.icons8.com/color/48/kubernetes.png" alt="k8s" width="40" height="40"/> </a>
+
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img  src="https://img.icons8.com/fluency/48/terraform.png" alt="docker" width="40" height="40"/> </a>
+
 
 </p>
 
