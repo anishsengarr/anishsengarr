@@ -9,7 +9,7 @@
 
 - 👨‍💻 My Portfolio [https://anishsengarr.github.io/](https://anishsengarr.github.io/)
 
-- 💬 Ask me about :- **Linux,SQL,Networking,HTML,CSS,AWS,Python,Jenkins,Docker, Ansible, Git, Kubernetes, Terraform**
+- 💬 Ask me about :- **Linux,SQL,Networking,HTML,CSS,AWS,Python,Jenkins,Docker, Ansible, Git & GitHUb, Kubernetes, Terraform**
 
 - 📫 Email ID :- **anishsengarr123@gmail.com**
 
