@@ -1,15 +1,15 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Anish Singh</h1>
-<h3 align="center">Cloud & DevOps Engineer From India</h3>
+<h3 align="center">A passionate Junior DevOps Engineer</h3>
 
 <h4>About Me</h4>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=prankushh&label=Profile%20views&color=0e75b6&style=flat" alt="prankushh" /> </p>
 
-- 🌱 I’m currently Aspiring **Cloud & DevOps Engineer**
+- 🌱 I’m currently learning **DevOps** | **Cloud Computing** | **Terraform**
 
 - 👨‍💻 My Portfolio [https://anishsengarr.github.io/](https://anishsengarr.github.io/)
 
-- 💬 Ask me about :- **Linux,SQL,Networking,HTML,CSS,AWS,Python,Jenkins,Docker, Ansible, Git & GitHub, Kubernetes, Terraform**
+- 💬 Ask me about :- **Linux** - **Docker** - **Automation** - **Cloud Computing** - **Orchestration**
 
 - 📫 Email ID :- **anishsengarr123@gmail.com**
 
