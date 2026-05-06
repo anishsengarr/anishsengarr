@@ -3,7 +3,7 @@
 
 <h4>About Me</h4>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prankushh&label=Profile%20views&color=0e75b6&style=flat" alt="prankushh" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish&label=Profile%20views&color=0e75b6&style=flat" alt="anish" /> </p>
 
 - 🌱 I’m currently learning **DevOps** | **Cloud Computing** | **Terraform**
 
