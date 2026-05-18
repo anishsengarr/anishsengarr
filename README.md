@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps** | **Cloud Computing** | **Terraform**
 
-- 👨‍💻 My Portfolio [https://anishsengarr.github.io/](https://anishsengarr.github.io/Anish_Portfolio/)
+- 👨‍💻 My Portfolio [(https://anishsengarr.github.io/Anish_Portfolio/)]
 
 - 💬 Ask me about :- **Linux** - **Docker** - **Automation** - **Cloud Computing** - **Orchestration**
 
